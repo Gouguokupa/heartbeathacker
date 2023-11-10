@@ -1,0 +1,930 @@
+Final F-1: 0.90136
+Final F-B: 0.87919
+Final SEN: 0.86876
+Final SPE: 0.96464
+Final BAC: 0.9167
+Final ACC: 0.90824
+Final PPV: 0.98504
+Final NPV: 0.91599
+
+G Score: 0.625
+Final F-1: 0.92536
+Final F-B: 0.89886
+Final SEN: 0.88342
+Final SPE: 0.98314
+Final BAC: 0.93328
+Final ACC: 0.93406
+Final PPV: 0.98216
+Final NPV: 0.91055
+
+G Score: 0.5
+Final F-1: 0.78935
+Final F-B: 0.7821
+Final SEN: 0.78628
+Final SPE: 0.93195
+Final BAC: 0.85911
+Final ACC: 0.88528
+Final PPV: 0.88667
+Final NPV: 0.91553
+
+G Score: 0.5
+Final F-1: 0.89084
+Final F-B: 0.85856
+Final SEN: 0.84117
+Final SPE: 0.9599
+Final BAC: 0.90054
+Final ACC: 0.91312
+Final PPV: 0.98268
+Final NPV: 0.91467
+
+G Score: 0.4375
+Final F-1: 0.94083
+Final F-B: 0.9211
+Final SEN: 0.91003
+Final SPE: 0.96489
+Final BAC: 0.93746
+Final ACC: 0.93665
+Final PPV: 0.98728
+Final NPV: 0.94673
+
+G Score: 0.6875
+Final F-1: 0.95185
+Final F-B: 0.93564
+Final SEN: 0.92575
+Final SPE: 0.96148
+Final BAC: 0.94361
+Final ACC: 0.93476
+Final PPV: 0.98374
+Final NPV: 0.94338
+
+G Score: 0.625
+Final F-1: 0.97138
+Final F-B: 0.96
+Final SEN: 0.95316
+Final SPE: 0.97193
+Final BAC: 0.96254
+Final ACC: 0.95208
+Final PPV: 0.99436
+Final NPV: 0.96271
+
+G Score: 0.8125
+Final F-1: 0.96436
+Final F-B: 0.95186
+Final SEN: 0.94441
+Final SPE: 0.97353
+Final BAC: 0.95897
+Final ACC: 0.9511
+Final PPV: 0.99019
+Final NPV: 0.95687
+
+G Score: 0.75
+Final F-1: 0.97174
+Final F-B: 0.96029
+Final SEN: 0.95359
+Final SPE: 0.97561
+Final BAC: 0.9646
+Final ACC: 0.9574
+Final PPV: 0.99631
+Final NPV: 0.96939
+
+G Score: 0.8125
+Final F-1: 0.89121
+Final F-B: 0.85579
+Final SEN: 0.83682
+Final SPE: 0.96816
+Final BAC: 0.90249
+Final ACC: 0.91051
+Final PPV: 0.99035
+Final NPV: 0.909
+
+G Score: 0.5
+Final F-1: 0.96734
+Final F-B: 0.95369
+Final SEN: 0.94549
+Final SPE: 0.97157
+Final BAC: 0.95853
+Final ACC: 0.94695
+Final PPV: 0.99557
+Final NPV: 0.95574
+
+G Score: 0.6875
+Final F-1: 0.91702
+Final F-B: 0.89141
+Final SEN: 0.87821
+Final SPE: 0.97594
+Final BAC: 0.92708
+Final ACC: 0.92942
+Final PPV: 0.99353
+Final NPV: 0.93304
+
+G Score: 0.6875
+Final F-1: 0.96168
+Final F-B: 0.94894
+Final SEN: 0.94161
+Final SPE: 0.9686
+Final BAC: 0.95511
+Final ACC: 0.94152
+Final PPV: 0.98928
+Final NPV: 0.94774
+
+G Score: 0.75
+Final F-1: 0.93786
+Final F-B: 0.92253
+Final SEN: 0.91468
+Final SPE: 0.96316
+Final BAC: 0.93892
+Final ACC: 0.94385
+Final PPV: 0.98694
+Final NPV: 0.96288
+
+G Score: 0.75
+Final F-1: 0.97174
+Final F-B: 0.96029
+Final SEN: 0.95359
+Final SPE: 0.97561
+Final BAC: 0.9646
+Final ACC: 0.9574
+Final PPV: 0.99631
+Final NPV: 0.96939
+
+G Score: 0.8125
+Final F-1: 0.9651
+Final F-B: 0.94966
+Final SEN: 0.94035
+Final SPE: 0.97487
+Final BAC: 0.95761
+Final ACC: 0.94981
+Final PPV: 0.99651
+Final NPV: 0.95741
+
+G Score: 0.75
+Final F-1: 0.94534
+Final F-B: 0.92509
+Final SEN: 0.91378
+Final SPE: 0.97218
+Final BAC: 0.94298
+Final ACC: 0.94157
+Final PPV: 0.99364
+Final NPV: 0.94808
+
+G Score: 0.625
+Final F-1: 0.94534
+Final F-B: 0.92509
+Final SEN: 0.91378
+Final SPE: 0.97218
+Final BAC: 0.94298
+Final ACC: 0.94157
+Final PPV: 0.99364
+Final NPV: 0.94808
+
+G Score: 0.625
+Final F-1: 0.94534
+Final F-B: 0.92509
+Final SEN: 0.91378
+Final SPE: 0.97218
+Final BAC: 0.94298
+Final ACC: 0.94157
+Final PPV: 0.99364
+Final NPV: 0.94808
+
+G Score: 0.625
+Final F-1: 0.97174
+Final F-B: 0.96029
+Final SEN: 0.95359
+Final SPE: 0.97561
+Final BAC: 0.9646
+Final ACC: 0.9574
+Final PPV: 0.99631
+Final NPV: 0.96939
+
+G Score: 0.8125
+Final F-1: 0.97174
+Final F-B: 0.96029
+Final SEN: 0.95359
+Final SPE: 0.97561
+Final BAC: 0.9646
+Final ACC: 0.9574
+Final PPV: 0.99631
+Final NPV: 0.96939
+
+G Score: 0.8125
+Final F-1: 0.94534
+Final F-B: 0.92509
+Final SEN: 0.91378
+Final SPE: 0.97218
+Final BAC: 0.94298
+Final ACC: 0.94157
+Final PPV: 0.99364
+Final NPV: 0.94808
+
+G Score: 0.625
+Final F-1: 0.97174
+Final F-B: 0.96029
+Final SEN: 0.95359
+Final SPE: 0.97561
+Final BAC: 0.9646
+Final ACC: 0.9574
+Final PPV: 0.99631
+Final NPV: 0.96939
+
+G Score: 0.8125
+Final F-1: 0.97824
+Final F-B: 0.96782
+Final SEN: 0.96171
+Final SPE: 0.88556
+Final BAC: 0.92363
+Final ACC: 0.84726
+Final PPV: 1.0
+Final NPV: 1.0
+
+G Score: 0.8571428571428571
+Final F-1: 0.97824
+Final F-B: 0.96782
+Final SEN: 0.96171
+Final SPE: 0.88556
+Final BAC: 0.92363
+Final ACC: 0.84726
+Final PPV: 1.0
+Final NPV: 1.0
+
+G Score: 0.8571428571428571
+Final F-1: 0.99657
+Final F-B: 0.99455
+Final SEN: 0.99322
+Final SPE: 0.92142
+Final BAC: 0.95732
+Final ACC: 0.91464
+Final PPV: 1.0
+Final NPV: 1.0
+
+G Score: 1.0
+Final F-1: 0.97824
+Final F-B: 0.96782
+Final SEN: 0.96171
+Final SPE: 0.88556
+Final BAC: 0.92363
+Final ACC: 0.84726
+Final PPV: 1.0
+Final NPV: 1.0
+
+G Score: 0.8571428571428571
+Final F-1: 0.97174
+Final F-B: 0.96029
+Final SEN: 0.95359
+Final SPE: 0.97561
+Final BAC: 0.9646
+Final ACC: 0.9574
+Final PPV: 0.99631
+Final NPV: 0.96939
+
+G Score: 0.8125
+Final F-1: 0.97174
+Final F-B: 0.96029
+Final SEN: 0.95359
+Final SPE: 0.97561
+Final BAC: 0.9646
+Final ACC: 0.9574
+Final PPV: 0.99631
+Final NPV: 0.96939
+
+G Score: 0.8125
+Final F-1: 0.97174
+Final F-B: 0.96029
+Final SEN: 0.95359
+Final SPE: 0.97561
+Final BAC: 0.9646
+Final ACC: 0.9574
+Final PPV: 0.99631
+Final NPV: 0.96939
+
+G Score: 0.8125
+Final F-1: 0.93449
+Final F-B: 0.9103
+Final SEN: 0.89685
+Final SPE: 0.99263
+Final BAC: 0.94474
+Final ACC: 0.95959
+Final PPV: 0.99596
+Final NPV: 0.94909
+
+G Score: 0.5625
+Final F-1: 0.97174
+Final F-B: 0.96029
+Final SEN: 0.95359
+Final SPE: 0.97561
+Final BAC: 0.9646
+Final ACC: 0.9574
+Final PPV: 0.99631
+Final NPV: 0.96939
+
+G Score: 0.8125
+Final F-1: 0.95036
+Final F-B: 0.93159
+Final SEN: 0.92061
+Final SPE: 0.97923
+Final BAC: 0.94992
+Final ACC: 0.94976
+Final PPV: 0.99038
+Final NPV: 0.94656
+
+G Score: 0.6875
+Final F-1: 0.97174
+Final F-B: 0.96029
+Final SEN: 0.95359
+Final SPE: 0.97561
+Final BAC: 0.9646
+Final ACC: 0.9574
+Final PPV: 0.99631
+Final NPV: 0.96939
+
+G Score: 0.8125
+Final F-1: 0.94246
+Final F-B: 0.91906
+Final SEN: 0.90595
+Final SPE: 0.97388
+Final BAC: 0.93992
+Final ACC: 0.94145
+Final PPV: 0.99789
+Final NPV: 0.95069
+
+G Score: 0.75
+Final F-1: 0.97174
+Final F-B: 0.96029
+Final SEN: 0.95359
+Final SPE: 0.97561
+Final BAC: 0.9646
+Final ACC: 0.9574
+Final PPV: 0.99631
+Final NPV: 0.96939
+
+G Score: 0.8125
+Final F-1: 0.97174
+Final F-B: 0.96029
+Final SEN: 0.95359
+Final SPE: 0.97561
+Final BAC: 0.9646
+Final ACC: 0.9574
+Final PPV: 0.99631
+Final NPV: 0.96939
+
+G Score: 0.8125
+Final F-1: 0.97174
+Final F-B: 0.96029
+Final SEN: 0.95359
+Final SPE: 0.97561
+Final BAC: 0.9646
+Final ACC: 0.9574
+Final PPV: 0.99631
+Final NPV: 0.96939
+
+G Score: 0.8125
+Final F-1: 0.94599
+Final F-B: 0.92635
+Final SEN: 0.91502
+Final SPE: 0.97471
+Final BAC: 0.94486
+Final ACC: 0.94101
+Final PPV: 0.9901
+Final NPV: 0.9419
+
+G Score: 0.5625
+Final F-1: 0.8955
+Final F-B: 0.87795
+Final SEN: 0.86949
+Final SPE: 0.97935
+Final BAC: 0.92442
+Final ACC: 0.92956
+Final PPV: 0.98368
+Final NPV: 0.92209
+
+G Score: 0.625
+Final F-1: 0.93191
+Final F-B: 0.91128
+Final SEN: 0.90052
+Final SPE: 0.97826
+Final BAC: 0.93939
+Final ACC: 0.94614
+Final PPV: 0.99128
+Final NPV: 0.9474
+
+G Score: 0.8125
+Final F-1: 0.97174
+Final F-B: 0.96029
+Final SEN: 0.95359
+Final SPE: 0.97561
+Final BAC: 0.9646
+Final ACC: 0.9574
+Final PPV: 0.99631
+Final NPV: 0.96939
+
+G Score: 0.8125
+Final F-1: 0.97174
+Final F-B: 0.96029
+Final SEN: 0.95359
+Final SPE: 0.97561
+Final BAC: 0.9646
+Final ACC: 0.9574
+Final PPV: 0.99631
+Final NPV: 0.96939
+
+G Score: 0.8125
+Final F-1: 0.97174
+Final F-B: 0.96029
+Final SEN: 0.95359
+Final SPE: 0.97561
+Final BAC: 0.9646
+Final ACC: 0.9574
+Final PPV: 0.99631
+Final NPV: 0.96939
+
+G Score: 0.8125
+Final F-1: 0.67604
+Final F-B: 0.65525
+Final SEN: 0.65413
+Final SPE: 0.95676
+Final BAC: 0.80544
+Final ACC: 0.85245
+Final PPV: 0.77149
+Final NPV: 0.85755
+
+G Score: 0.3125
+Final F-1: 0.91151
+Final F-B: 0.897
+Final SEN: 0.89087
+Final SPE: 0.96403
+Final BAC: 0.92745
+Final ACC: 0.91534
+Final PPV: 0.96675
+Final NPV: 0.9215
+
+G Score: 0.5625
+Final F-1: 0.97174
+Final F-B: 0.96029
+Final SEN: 0.95359
+Final SPE: 0.97561
+Final BAC: 0.9646
+Final ACC: 0.9574
+Final PPV: 0.99631
+Final NPV: 0.96939
+
+G Score: 0.8125
+Final F-1: 0.92807
+Final F-B: 0.91227
+Final SEN: 0.90561
+Final SPE: 0.95854
+Final BAC: 0.93208
+Final ACC: 0.92032
+Final PPV: 0.97015
+Final NPV: 0.92822
+
+G Score: 0.5625
+Final F-1: 0.92957
+Final F-B: 0.90796
+Final SEN: 0.89635
+Final SPE: 0.97529
+Final BAC: 0.93582
+Final ACC: 0.93678
+Final PPV: 0.98567
+Final NPV: 0.931
+
+G Score: 0.6875
+Final F-1: 0.92883
+Final F-B: 0.90619
+Final SEN: 0.89429
+Final SPE: 0.9802
+Final BAC: 0.93724
+Final ACC: 0.94006
+Final PPV: 0.9939
+Final NPV: 0.9403
+
+G Score: 0.75
+Final F-1: 0.90726
+Final F-B: 0.89645
+Final SEN: 0.89013
+Final SPE: 0.97522
+Final BAC: 0.93267
+Final ACC: 0.9249
+Final PPV: 0.99015
+Final NPV: 0.9277
+
+G Score: 0.75
+Final F-1: 0.9443
+Final F-B: 0.92597
+Final SEN: 0.91604
+Final SPE: 0.97055
+Final BAC: 0.9433
+Final ACC: 0.93518
+Final PPV: 0.99014
+Final NPV: 0.94229
+
+G Score: 0.6875
+Final F-1: 0.94445
+Final F-B: 0.92551
+Final SEN: 0.91496
+Final SPE: 0.97772
+Final BAC: 0.94634
+Final ACC: 0.95342
+Final PPV: 0.9882
+Final NPV: 0.95669
+
+G Score: 0.6875
+Final F-1: 0.95691
+Final F-B: 0.94282
+Final SEN: 0.93436
+Final SPE: 0.97735
+Final BAC: 0.95585
+Final ACC: 0.95528
+Final PPV: 0.98482
+Final NPV: 0.95168
+
+G Score: 0.5625
+Final F-1: 0.9389
+Final F-B: 0.92169
+Final SEN: 0.91187
+Final SPE: 0.95349
+Final BAC: 0.93268
+Final ACC: 0.92928
+Final PPV: 0.97598
+Final NPV: 0.94388
+
+G Score: 0.625
+Final F-1: 0.94517
+Final F-B: 0.92617
+Final SEN: 0.91568
+Final SPE: 0.96854
+Final BAC: 0.94211
+Final ACC: 0.93082
+Final PPV: 0.99195
+Final NPV: 0.93975
+
+G Score: 0.6875
+Final F-1: 0.95241
+Final F-B: 0.93145
+Final SEN: 0.91897
+Final SPE: 0.97984
+Final BAC: 0.9494
+Final ACC: 0.94679
+Final PPV: 0.99606
+Final NPV: 0.94398
+
+G Score: 0.625
+Final F-1: 0.95725
+Final F-B: 0.94407
+Final SEN: 0.93637
+Final SPE: 0.96532
+Final BAC: 0.95084
+Final ACC: 0.94592
+Final PPV: 0.98519
+Final NPV: 0.96077
+
+G Score: 0.75
+Final F-1: 0.88764
+Final F-B: 0.86034
+Final SEN: 0.84598
+Final SPE: 0.98895
+Final BAC: 0.91746
+Final ACC: 0.92931
+Final PPV: 0.99808
+Final NPV: 0.9219
+
+G Score: 0.625
+Final F-1: 0.95853
+Final F-B: 0.94458
+Final SEN: 0.9364
+Final SPE: 0.96744
+Final BAC: 0.95192
+Final ACC: 0.94709
+Final PPV: 0.98773
+Final NPV: 0.95921
+
+G Score: 0.75
+Final F-1: 0.87762
+Final F-B: 0.8519
+Final SEN: 0.8365
+Final SPE: 0.9708
+Final BAC: 0.90364
+Final ACC: 0.92601
+Final PPV: 0.93042
+Final NPV: 0.92866
+
+G Score: 0.4375
+Final F-1: 0.95853
+Final F-B: 0.94458
+Final SEN: 0.9364
+Final SPE: 0.96744
+Final BAC: 0.95192
+Final ACC: 0.94709
+Final PPV: 0.98773
+Final NPV: 0.95921
+
+G Score: 0.75
+Final F-1: 0.95853
+Final F-B: 0.94458
+Final SEN: 0.9364
+Final SPE: 0.96744
+Final BAC: 0.95192
+Final ACC: 0.94709
+Final PPV: 0.98773
+Final NPV: 0.95921
+
+G Score: 0.75
+Final F-1: 0.95433
+Final F-B: 0.94862
+Final SEN: 0.94617
+Final SPE: 0.94997
+Final BAC: 0.94807
+Final ACC: 0.93447
+Final PPV: 0.97023
+Final NPV: 0.95687
+
+G Score: 0.75
+Final F-1: 0.94835
+Final F-B: 0.93694
+Final SEN: 0.93102
+Final SPE: 0.9705
+Final BAC: 0.95076
+Final ACC: 0.94553
+Final PPV: 0.97657
+Final NPV: 0.95206
+
+G Score: 0.75
+Final F-1: 0.97174
+Final F-B: 0.96029
+Final SEN: 0.95359
+Final SPE: 0.97561
+Final BAC: 0.9646
+Final ACC: 0.9574
+Final PPV: 0.99631
+Final NPV: 0.96939
+
+G Score: 0.8125
+Final F-1: 0.92195
+Final F-B: 0.89459
+Final SEN: 0.87976
+Final SPE: 0.97932
+Final BAC: 0.92954
+Final ACC: 0.94002
+Final PPV: 0.99185
+Final NPV: 0.94236
+
+G Score: 0.6875
+Final F-1: 0.9251
+Final F-B: 0.89849
+Final SEN: 0.88411
+Final SPE: 0.98018
+Final BAC: 0.93214
+Final ACC: 0.94273
+Final PPV: 0.99247
+Final NPV: 0.94485
+
+G Score: 0.6875
+Final F-1: 0.95219
+Final F-B: 0.93493
+Final SEN: 0.9248
+Final SPE: 0.97179
+Final BAC: 0.9483
+Final ACC: 0.94786
+Final PPV: 0.98907
+Final NPV: 0.95726
+
+G Score: 0.75
+Final F-1: 0.85216
+Final F-B: 0.82253
+Final SEN: 0.80688
+Final SPE: 0.97983
+Final BAC: 0.89335
+Final ACC: 0.91624
+Final PPV: 0.98746
+Final NPV: 0.91525
+
+G Score: 0.5
+Final F-1: 0.90854
+Final F-B: 0.87841
+Final SEN: 0.86248
+Final SPE: 0.97622
+Final BAC: 0.91935
+Final ACC: 0.93466
+Final PPV: 0.99214
+Final NPV: 0.93796
+
+G Score: 0.625
+Final F-1: 0.93258
+Final F-B: 0.90509
+Final SEN: 0.88958
+Final SPE: 0.97078
+Final BAC: 0.93018
+Final ACC: 0.93033
+Final PPV: 0.99599
+Final NPV: 0.93782
+
+G Score: 0.625
+Final F-1: 0.95867
+Final F-B: 0.94311
+Final SEN: 0.93451
+Final SPE: 0.97255
+Final BAC: 0.95353
+Final ACC: 0.94413
+Final PPV: 0.99597
+Final NPV: 0.95591
+
+G Score: 0.8125
+Final F-1: 0.88588
+Final F-B: 0.86436
+Final SEN: 0.85379
+Final SPE: 0.97604
+Final BAC: 0.91492
+Final ACC: 0.91635
+Final PPV: 0.9956
+Final NPV: 0.92506
+
+G Score: 0.75
+Final F-1: 0.95867
+Final F-B: 0.94311
+Final SEN: 0.93451
+Final SPE: 0.97255
+Final BAC: 0.95353
+Final ACC: 0.94413
+Final PPV: 0.99597
+Final NPV: 0.95591
+
+G Score: 0.8125
+Final F-1: 0.95741
+Final F-B: 0.93796
+Final SEN: 0.92634
+Final SPE: 0.97178
+Final BAC: 0.94906
+Final ACC: 0.95083
+Final PPV: 0.99722
+Final NPV: 0.9635
+
+G Score: 0.6875
+Final F-1: 0.92812
+Final F-B: 0.89845
+Final SEN: 0.88172
+Final SPE: 0.98681
+Final BAC: 0.93427
+Final ACC: 0.9439
+Final PPV: 0.99756
+Final NPV: 0.93566
+
+G Score: 0.625
+Final F-1: 0.96762
+Final F-B: 0.95554
+Final SEN: 0.94853
+Final SPE: 0.96926
+Final BAC: 0.95889
+Final ACC: 0.95146
+Final PPV: 0.99378
+Final NPV: 0.96603
+
+G Score: 0.875
+Final F-1: 0.96254
+Final F-B: 0.94905
+Final SEN: 0.94145
+Final SPE: 0.96926
+Final BAC: 0.95536
+Final ACC: 0.95064
+Final PPV: 0.99378
+Final NPV: 0.96498
+
+G Score: 0.875
+Final F-1: 0.96762
+Final F-B: 0.95554
+Final SEN: 0.94853
+Final SPE: 0.96926
+Final BAC: 0.95889
+Final ACC: 0.95146
+Final PPV: 0.99378
+Final NPV: 0.96603
+
+G Score: 0.875
+Final F-1: 0.97285
+Final F-B: 0.97553
+Final SEN: 0.97851
+Final SPE: 0.95979
+Final BAC: 0.96915
+Final ACC: 0.9537
+Final PPV: 0.97258
+Final NPV: 0.97812
+
+G Score: 0.875
+Final F-1: 0.96762
+Final F-B: 0.95554
+Final SEN: 0.94853
+Final SPE: 0.96926
+Final BAC: 0.95889
+Final ACC: 0.95146
+Final PPV: 0.99378
+Final NPV: 0.96603
+
+G Score: 0.875
+Final F-1: 0.97464
+Final F-B: 0.96634
+Final SEN: 0.96157
+Final SPE: 0.97014
+Final BAC: 0.96586
+Final ACC: 0.95701
+Final PPV: 0.9927
+Final NPV: 0.97467
+
+G Score: 0.875
+Final F-1: 0.97464
+Final F-B: 0.96634
+Final SEN: 0.96157
+Final SPE: 0.97014
+Final BAC: 0.96586
+Final ACC: 0.95701
+Final PPV: 0.9927
+Final NPV: 0.97467
+
+G Score: 0.875
+Final F-1: 0.97973
+Final F-B: 0.97336
+Final SEN: 0.96955
+Final SPE: 0.9673
+Final BAC: 0.96843
+Final ACC: 0.95667
+Final PPV: 0.99264
+Final NPV: 0.97534
+
+G Score: 0.875
+Final F-1: 0.97608
+Final F-B: 0.96763
+Final SEN: 0.96264
+Final SPE: 0.96807
+Final BAC: 0.96535
+Final ACC: 0.95588
+Final PPV: 0.99357
+Final NPV: 0.97396
+
+G Score: 0.875
+Final F-1: 0.94344
+Final F-B: 0.91993
+Final SEN: 0.90662
+Final SPE: 0.97761
+Final BAC: 0.94211
+Final ACC: 0.94604
+Final PPV: 0.9983
+Final NPV: 0.9516
+
+G Score: 0.6875
+Final F-1: 0.96966
+Final F-B: 0.98063
+Final SEN: 0.99074
+Final SPE: 0.92732
+Final BAC: 0.95903
+Final ACC: 0.94097
+Final PPV: 0.95787
+Final NPV: 0.98848
+
+G Score: 0.85
+Final F-1: 0.93277
+Final F-B: 0.95357
+Final SEN: 0.97877
+Final SPE: 0.86336
+Final BAC: 0.92106
+Final ACC: 0.88949
+Final PPV: 0.91723
+Final NPV: 0.985
+
+G Score: 0.8
+Final F-1: 0.93277
+Final F-B: 0.95357
+Final SEN: 0.97877
+Final SPE: 0.86336
+Final BAC: 0.92106
+Final ACC: 0.88949
+Final PPV: 0.91723
+Final NPV: 0.985
+
+G Score: 0.8
+Final F-1: 0.96919
+Final F-B: 0.98026
+Final SEN: 0.99051
+Final SPE: 0.928
+Final BAC: 0.95925
+Final ACC: 0.94133
+Final PPV: 0.95735
+Final NPV: 0.98798
+
+G Score: 0.85
+Final F-1: 0.97973
+Final F-B: 0.97336
+Final SEN: 0.96955
+Final SPE: 0.9673
+Final BAC: 0.96843
+Final ACC: 0.95667
+Final PPV: 0.99264
+Final NPV: 0.97534
+
+G Score: 0.875
+Final F-1: 0.97973
+Final F-B: 0.97336
+Final SEN: 0.96955
+Final SPE: 0.9673
+Final BAC: 0.96843
+Final ACC: 0.95667
+Final PPV: 0.99264
+Final NPV: 0.97534
+
+G Score: 0.875
